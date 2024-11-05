@@ -49,10 +49,10 @@ The Makefile automates the build process, compiling all necessary files and crea
    make
 2. **Execute**: After building, run the BFS program with:
 
-```bash
+   ```bash
    Copy code
    /part_III.out
-```
+
 This will:
 
    - Randomly generate a graph with vertices and edges.
@@ -60,10 +60,11 @@ This will:
    - Output the initial adjacency matrix and the BFS tree adjacency matrix.
 2. **Clean**: To remove the executable, run:
 
-```bash
+   ```bash
    Copy code
    make clean
 ```
+
 ### Sample Output
 The program displays:
 
