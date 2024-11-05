@@ -50,8 +50,8 @@ The Makefile automates the build process, compiling all necessary files and crea
 2. **Execute**: After building, run the BFS program with:
 
 ```bash
-    Copy code
-    ./part_III.out
+   Copy code
+   /part_III.out
 ```
 This will:
 
@@ -61,8 +61,8 @@ This will:
 2. **Clean**: To remove the executable, run:
 
 ```bash
-    Copy code
-    make clean
+   Copy code
+   make clean
 ```
 ### Sample Output
 The program displays:
