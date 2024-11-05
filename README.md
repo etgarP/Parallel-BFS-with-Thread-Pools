@@ -61,8 +61,8 @@ This will:
 2. **Clean**: To remove the executable, run:
 
 ```bash
-Copy code
-make clean
+    Copy code
+    make clean
 ```
 ### Sample Output
 The program displays:
