@@ -63,7 +63,7 @@ This will:
    ```bash
    Copy code
    make clean
-```
+
 
 ### Sample Output
 The program displays:
